@@ -1,10 +1,15 @@
-# Zero to Mastery - Machine Learning & Data Science
+# Machine Learning & Data Science
 
-This is my page of notes taken for the Zero to Mastery course for ML & DS.
+Welcome! This is my page specifically for my journey to study Machine Learning and Data Science.
 
 ## Topics Covered
 
-### Data Science Libraries
+### Python
+- Basic Programming Fundamentals
+- Object-Oriented Programming
+- Functional Programming
+
+### Data Science Libraries (Python)
 - Pandas
 - Numpy
 - Matplotlib
