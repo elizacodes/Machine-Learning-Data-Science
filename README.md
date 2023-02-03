@@ -5,6 +5,7 @@ Welcome! This is my page specifically for my journey to study Machine Learning a
 - **Zero to Mastery**:
   - [Python Developer 2023](https://zerotomastery.io/courses/learn-python/)
   - [Machine Learning & Data Science Bootcamp](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)
+  - [Tensorflow Developer Certificate 2023](https://zerotomastery.io/courses/learn-tensorflow/)
 - **Coursera/Deeplearning.ai**: 
   - [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/)
 
